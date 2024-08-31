@@ -1,0 +1,6 @@
+com\cgi\fsdc\serviceImpl\TransactionServiceImplTest.class
+TransactionControllerTest.class
+com\cgi\fsdc\serviceImpl\CustomerServiceImplTest.class
+com\cgi\fsdc\serviceImpl\DeviceServiceImplTest.class
+com\cgi\fsdc\controller\DeviceControllerTest.class
+com\cgi\fsdc\serviceImpl\FraudDetectionServiceImplTest.class

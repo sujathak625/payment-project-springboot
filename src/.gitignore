@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+
+# Gradle build directory
+/build/
+
+# Logs
+*.log
+/logs/
+/*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Eclipse/IntelliJ IDEA specific files
+/.idea/
+/*.iml
+/*.ipr
+/.project
+/.classpath
+/.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using front-end libraries)
+/node_modules/

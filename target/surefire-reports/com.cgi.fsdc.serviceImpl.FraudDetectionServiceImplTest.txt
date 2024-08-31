@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cgi.fsdc.serviceImpl.FraudDetectionServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.11 s - in com.cgi.fsdc.serviceImpl.FraudDetectionServiceImplTest
